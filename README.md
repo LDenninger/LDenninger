@@ -7,7 +7,7 @@ I'm **Luis Denninger**, a passionate Computer Science 🎓 graduate student at t
 - 🏗️ **3D Reconstruction**: Building scene representations from sparse input views.
 - 🚗 **Autonomous Driving**: Employing optimization-based control algorithms for autnomous racing.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LDenninger&include_all_commits=true&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LDenninger&include_all_commits=true&show_icons=true&theme=github_dark_dimmed)
 
 ### 📫 Contact
 - ✉️ Email: l_denninger@uni-bonn.de
