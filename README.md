@@ -9,8 +9,9 @@ I'm **Luis Denninger**, a PhD candidate at the **Technical University of Munich*
 - 🚗 **Autonomous Driving**: Employing optimization/learning-based control algorithms for autonomous racing.
 
 ### 📫 Contact
-- ✉️ Email: luis@deepscenario.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/luis-denninger-5179a552/)
+- ✉️ Email: luis.denninger@tum.de
+- 🌐 [Webpage](https://ldenninger.github.io/)
+- 📊 [LinkedIn](https://www.linkedin.com/in/luis-denninger-5179a552/)
 - 📣 [X](https://x.com/luisdenninger?s=21)
 
 Feel free to browse through my projects, leave a ⭐ or contact me for questions or collaborations! 🚀
